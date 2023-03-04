@@ -1,0 +1,27 @@
+.body{
+    background-color: ghostwhite;
+}
+.questionBox{
+    width: 80%;
+    border: 1px solid #222;
+    margin: 0 auto;
+    min-height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    background-color: lightblue;
+}
+.btn{
+   display: flex;
+   gap: 1rem;
+   justify-content: center;
+   align-items: center;
+   margin-top: 1rem;
+}
+.btn button{
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
